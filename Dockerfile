@@ -1,1 +1,1 @@
-FROM nocobase/nocobase:latest
+FROM nocobase/nocobase:latest-full
